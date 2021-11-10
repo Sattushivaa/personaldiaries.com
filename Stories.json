@@ -1,0 +1,18 @@
+{
+  "stories" : [{
+    "name" : "the night",
+    "type" : "poem",
+    "author" : "Vishu Bokadiya",
+    "content" : "that night when you were there,\n i felt a warm feeling in my heart's core,\n here i recall the pages of love,\n i collected and you tore"
+  },{
+    "name" : "the lady without heart (part 1)",
+    "type" : "story",
+    "author" : "Paras Kashyap",
+    "content" : "there was a lady who was very clever and one day she called paras, paras went there and then she slapped paras and abashed him a lot, but paras, as a honest man, didn't say a word..."
+  },{
+    "name" : "something remains",
+    "type" : "poem",
+    "author" : "Satyam Bharti",
+    "content" : "When someone talks about you,\nI wish to ho away from there\nand open up once again,\nyour memories from my collection sphere\n\nThat night when you were there,\nI was near the door\nI felt a sudden emotion\nand found in pieces\nmy most precious thing you tore\n\nNow I have accepted you as you want\nBut still when I try\nnot to think about you,\nsomething always remains.\nWant to not even look at you\nbut it pains..."
+  }]
+}
